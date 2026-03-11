@@ -49,8 +49,7 @@
 ###
 
 <div align="left">
-  <img src="https://wallpapercave.com/wp/wp15299096.png" height="80" alt="go logo"  />
-  <img width="12" />
+ 
   <img src="https://hangtenseo.com/wp-content/uploads/2019/10/Python-Logo.png" height="70" alt="rust logo"  />
   <img width="12" />
   <img src="https://miro.medium.com/v2/resize:fit:1358/format:webp/1*Qumh8xK3v10_KrUp5181uQ.png" height="70" alt="ruby logo"  />
@@ -67,7 +66,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-SQL-Logo.png" height="40" alt="https://static.tildacdn.one/tild6238-3035-4335-a333-306335373139/IMG_3349.jpg
+"  />
+</div>
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
