@@ -6,8 +6,9 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rajat-srivastava-7490ba240/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
- <a href="https://(https://github.com/in/Rajat-srivastava1401)"> <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
- 
+ <a href="https://github.com/Rajat-srivastava1401">
+    <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  </a>
 </div>
 
 ###
