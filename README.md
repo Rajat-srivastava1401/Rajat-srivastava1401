@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Data%20Science/Data_Science_1.gif" width="100%" />
+  <img src="https://github.com/AdityaPriyadarshi/AdityaPriyadarshi/blob/master/assets/data-analysis.gif?raw=true" width="80%" />
 </div>
 
 <div align="center">
