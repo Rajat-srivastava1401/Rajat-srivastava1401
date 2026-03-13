@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github.com/AdityaPriyadarshi/AdityaPriyadarshi/blob/master/assets/data-analysis.gif?raw=true" width="80%" />
+
+  <img height="250" src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data-Analytics.gif"  />
+
 </div>
 
 <div align="center">
