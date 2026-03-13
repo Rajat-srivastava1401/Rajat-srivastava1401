@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Rajat%20Srivastava&fontSize=70&animation=fadeIn&fontAlignY=35"  />
+  <img src="path/to/your/custom/analytics_animation.gif" height="150" alt="Data Analytics in Action" />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Rajat%20Srivastava&fontSize=70&animation=fadeIn&fontAlignY=35"  />
