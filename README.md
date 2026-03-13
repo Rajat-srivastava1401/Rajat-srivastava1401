@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data-Analytics.gif"  />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Rajat%20Srivastava&fontSize=70&animation=fadeIn&fontAlignY=35"  />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Rajat%20Srivastava&fontSize=70&animation=fadeIn&fontAlignY=35"  />
