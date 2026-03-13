@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpZzRocXp3eHVsbmN0bmZqZzRocXp3eHVsbmN0bmZqZzRocXp3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjP3g9pQ2L9tS/giphy.gif" width="400"  />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assests/head.gif" width="100%" />
+</div>
   <h1>Hi, I'm Rajat Srivastava 👋</h1>
   <p><b>Data Enthusiast | Final Year B.Tech @ BBDITM | Aspiring Data Analyst</b></p>
 </div>
