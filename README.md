@@ -1,6 +1,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assests/head.gif" width="100%" />
 </div>
+
+<div align="center">
+  <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35"> I'm Rajat Srivastava</h1>
+  <p align="center">
+    <samp>
   <h1>Hi, I'm Rajat Srivastava 👋</h1>
   <p><b>Data Enthusiast | Final Year B.Tech @ BBDITM | Aspiring Data Analyst</b></p>
 </div>
