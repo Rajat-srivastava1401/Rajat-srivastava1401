@@ -6,8 +6,7 @@
   <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35"> I'm Rajat Srivastava</h1>
   <p align="center">
     <samp>
-  <h1>Hi, I'm Rajat Srivastava 👋</h1>
-  <p><b>Data Enthusiast | Final Year B.Tech @ BBDITM | Aspiring Data Analyst</b></p>
+  <p><b>Data Enthusiast | Final Year B.Tech @ AKTU | Aspiring Data Analyst</b></p>
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Rajat%20Srivastava&fontSize=70&animation=fadeIn&fontAlignY=35"  />
