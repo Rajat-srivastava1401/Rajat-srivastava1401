@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="path/to/your/custom/analytics_animation.gif" height="150" alt="Data Analytics in Action" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpZzRocXp3eHVsbmN0bmZqZzRocXp3eHVsbmN0bmZqZzRocXp3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjP3g9pQ2L9tS/giphy.gif" width="400"  />
+  <h1>Hi, I'm Rajat Srivastava 👋</h1>
+  <p><b>Data Enthusiast | Final Year B.Tech @ BBDITM | Aspiring Data Analyst</b></p>
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Rajat%20Srivastava&fontSize=70&animation=fadeIn&fontAlignY=35"  />
